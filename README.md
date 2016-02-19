@@ -66,7 +66,7 @@ As an open community of contributors, it might be that we openly decide that the
 
 ## Index
 
-* [LICENSE](LICENSE.md) - QUESTION: Are we happy with this?
+* [LICENSE](LICENSE.md) - QUESTION: Are we happy with this? Creative to Creative Commons?
 * [README](README.md)
 * [Frequently Asked Questions](FAQ.md)
 * [Contributing](contributing.md)
@@ -78,7 +78,12 @@ As an open community of contributors, it might be that we openly decide that the
 * [Discussion Board](https://discuss.okfn.org/c/projects/open-trials)
 * [Twitter](https://twitter.com/opentrials)
 * [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
+* [Reading](reading.md)
+* [Interventions we might target next](https://github.com/opentrials/interventions)
+* [Conditions](https://github.com/opentrials/conditions)
+* [What Next?](next.md)
 
 ## Contact 
 
-
+* Community Manager: james.gardner@okfn.org
+* Everyone: opentrials@okfn.org
