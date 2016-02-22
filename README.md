@@ -92,6 +92,7 @@ Data:
 * [Data Types](data_types.md)
 * [Data Sources](data_sources.md)
 * [Example Data and Documents](example_data_and_docs.md)
+* [Publications](publication_sources.md)
 
 Other:
 

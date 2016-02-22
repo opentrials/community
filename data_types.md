@@ -19,8 +19,12 @@ gives real examples of some of these for you to see.
 * Portions of regulatory documents describing individual trials
 * Structured data on methods and results extracted by systematic reviewers or other researchers
   * SRDR from AHRQ
+  * Cochrane (risk of bias, effect sizes)
+  * Jadad score
+  * ClinicalTrials.gov results pages
 * Clinical Study Reports
 * EPAR segments
+* Drugs@FDA segments
 * Additional documents such as:
   * Blank consent forms
   * Blank case report forms
