@@ -8,6 +8,47 @@ Maturity: Planning
 
 This is our internal community resources repository.
 
+## Index
+
+* [Frequently Asked Questions](FAQ.md)
+* [Glossary](glossary.md)
+* [LICENSE](LICENSE.md) - QUESTION: Are we happy with this? Creative to Creative Commons?
+* [README](README.md)
+
+Contribution:
+
+* [Contributing](contributing.md)
+* [Document Standards](document_standards.md)
+* [Communication Standards](communication_standards.md)
+* [What Next?](next.md)
+
+Discussion:
+
+* [Discussion Board](https://discuss.okfn.org/c/projects/open-trials)
+* [Twitter](https://twitter.com/opentrials)
+* [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
+* [Reading](reading.md)
+
+Data:
+
+* [Registers](https://github.com/opentrials/registers/blob/master/data/registers.csv)
+* [Conditions](https://github.com/opentrials/conditions)
+* [Data Types](data_types.md)
+* [Data Sources](data_sources.md)
+* [Example Data and Documents](example_data_and_docs.md)
+* [Publications](publication_sources.md)
+
+Other:
+
+* [Matching Strategies](matching_strategies.md)
+* [List of sources of information on drug names](https://discuss.okfn.org/t/database-of-drug-names/880)
+* [Interventions we might target next](https://github.com/opentrials/interventions)
+
+## Contact 
+
+* Community Manager: james.gardner@okfn.org
+* Everyone: opentrials@okfn.org
+
 ## About OpenTrials
 
 OpenTrials is a project to create a single place for all the useful documents
@@ -17,7 +58,7 @@ medical treatments.
 The main OpenTrials website is at http://opentrials.net
 
 If we want the best possible evidence-based medicine for the benefit of all, we
-need all the evidence to be easily accessible. Find out more about what we are specifically after in [Documents and data we want, and what we are excluding](what_we_want_please.md).
+need all the evidence to be easily accessible.
 
 ## Technology
 
@@ -64,43 +105,3 @@ Find out more in the [Contributing](contributing.md) document.
 
 As an open community of contributors, it might be that we openly decide that there are better ways of organising the development of these resources and ideas, in which case we can use those in future. 
 
-## Index
-
-* [Frequently Asked Questions](FAQ.md)
-* [Glossary](glossary.md)
-* [LICENSE](LICENSE.md) - QUESTION: Are we happy with this? Creative to Creative Commons?
-* [README](README.md)
-
-Contribution:
-
-* [Contributing](contributing.md)
-* [Document Standards](document_standards.md)
-* [Communication Standards](communication_standards.md)
-* [What Next?](next.md)
-
-Discussion:
-
-* [Discussion Board](https://discuss.okfn.org/c/projects/open-trials)
-* [Twitter](https://twitter.com/opentrials)
-* [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
-* [Reading](reading.md)
-
-Data:
-
-* [Registers](https://github.com/opentrials/registers/blob/master/data/registers.csv)
-* [Conditions](https://github.com/opentrials/conditions)
-* [Data Types](data_types.md)
-* [Data Sources](data_sources.md)
-* [Example Data and Documents](example_data_and_docs.md)
-* [Publications](publication_sources.md)
-
-Other:
-
-* [Matching Strategies](matching_strategies.md)
-* [List of sources of information on drug names](https://discuss.okfn.org/t/database-of-drug-names/880)
-* [Interventions we might target next](https://github.com/opentrials/interventions)
-
-## Contact 
-
-* Community Manager: james.gardner@okfn.org
-* Everyone: opentrials@okfn.org
