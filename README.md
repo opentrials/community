@@ -66,22 +66,38 @@ As an open community of contributors, it might be that we openly decide that the
 
 ## Index
 
+* [Frequently Asked Questions](FAQ.md)
+* [Glossary](glossary.md)
 * [LICENSE](LICENSE.md) - QUESTION: Are we happy with this? Creative to Creative Commons?
 * [README](README.md)
-* [Frequently Asked Questions](FAQ.md)
+
+Contribution:
+
 * [Contributing](contributing.md)
-* [Communication Standards](communication_standards.md)
 * [Document Standards](document_standards.md)
-* [Glossary](glossary.md)
-* [Public Data Sources](https://github.com/opentrials/registers/blob/master/data/registers.csv)
-* [Example Data and Documents](example_data_and_docs.md)
+* [Communication Standards](communication_standards.md)
+* [What Next?](next.md)
+
+Discussion:
+
 * [Discussion Board](https://discuss.okfn.org/c/projects/open-trials)
 * [Twitter](https://twitter.com/opentrials)
 * [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
 * [Reading](reading.md)
-* [Interventions we might target next](https://github.com/opentrials/interventions)
+
+Data:
+
+* [Registers](https://github.com/opentrials/registers/blob/master/data/registers.csv)
 * [Conditions](https://github.com/opentrials/conditions)
-* [What Next?](next.md)
+* [Data Types](data_types.md)
+* [Data Sources](data_sources.md)
+* [Example Data and Documents](example_data_and_docs.md)
+
+Other:
+
+* [Matching Strategies](matching_strategies.md)
+* [List of sources of information on drug names](https://discuss.okfn.org/t/database-of-drug-names/880)
+* [Interventions we might target next](https://github.com/opentrials/interventions)
 
 ## Contact 
 
