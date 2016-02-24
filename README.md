@@ -8,6 +8,18 @@ Maturity: Planning
 
 This is our internal community resources repository.
 
+## About OpenTrials
+
+OpenTrials is a project to create a single place for all the useful documents
+and data that are produced as part of running clinical trials to find new
+medical treatments.
+
+The main OpenTrials website is at http://opentrials.net
+
+If we want the best possible evidence-based medicine for the benefit of all, we
+need all the evidence to be easily accessible.
+
+
 ## Index
 
 * [Frequently Asked Questions](FAQ.md)
@@ -28,6 +40,7 @@ Discussion:
 * [Twitter](https://twitter.com/opentrials)
 * [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
 * [Reading](reading.md)
+* [Events in the wider community](events.md)
 
 Data:
 
@@ -48,17 +61,6 @@ Other:
 
 * Community Manager: james.gardner@okfn.org
 * Everyone: opentrials@okfn.org
-
-## About OpenTrials
-
-OpenTrials is a project to create a single place for all the useful documents
-and data that are produced as part of running clinical trials to find new
-medical treatments.
-
-The main OpenTrials website is at http://opentrials.net
-
-If we want the best possible evidence-based medicine for the benefit of all, we
-need all the evidence to be easily accessible.
 
 ## Technology
 
