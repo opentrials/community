@@ -9,6 +9,7 @@ Maturity: Pre-Alpha
 ## Events We Are Attending
 
 * Friday 24th June 2016 [Evidence Live 2016 - OpenTrials Workshop](http://evidencelive.org/workshop-abstracts/#Dr Ben Goldacre & James Gardner) Oxford 
+* https://attending.io/events/open-knowledge-london-feb-2016
 
 ## Other Events
 

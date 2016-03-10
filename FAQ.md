@@ -23,7 +23,7 @@ There are also people from the wider community who are helping advise us and we
 are talking to organisations about the possibility of them sharing previously
 not-public data with us.
 
-## There is already lots of public data, why do we need you?
+## There is already lots of public data, why do we need you?
 
 There is *some* public data, but we'd like to see *all* the data and documents
 that form the evidence-base of modern medicine.
@@ -39,7 +39,7 @@ allows the medical community to make research evidence available in one place.
 This will hopefully mean more data will be published, more people will look at
 it and we'll have better medicine as a result.
 
-## Why is the project more likely to succeed than X, Y or Z
+## Why is the project more likely to succeed than X, Y or Z
 
 It is true that other communities have tried to tackle different parts of the
 problem. We think we're the first to try to get *all* data and documents in one
@@ -77,9 +77,11 @@ community to publish their trial data and documents in a single place so
 that people can find and use that data.
 
 We also want to see all that data linked (in the sense that you can click
-buttons to explore the data and documents over the web) and to provide APIs
-that our community request for building useful apps with that data (likely to
-be JSON over HTTP).
+buttons to explore the data and documents over the web in a threaded way) and
+to provide APIs that our community request for building useful apps with that
+data (likely to be JSON over HTTP). See [Threaded
+Data](http://blogs.biomedcentral.com/on-medicine/2011/04/13/threaded-publications-we-need-you-and-your-data-for-the-next-phase/)
+to learn more.
 
 *Linked Data* is also a technical term for a set of technologies including RDF
 and SPARQL. Its value lies is in the fact that it makes data more accessible to

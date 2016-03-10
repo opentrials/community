@@ -7,6 +7,8 @@ space too, you might find the links useful.
 
 If you'd like to write a one or two sentence summary of one of these projects, please email it and we'll add it.
 
+Let us know of the links you know of too and we'll add them.
+
 * [AllTrials](http://alltrials.net)
 * [Sense About Science](http://senseaboutscience.org)
 * [OpenPHACTS](https://www.openphacts.org/)
@@ -17,7 +19,16 @@ If you'd like to write a one or two sentence summary of one of these projects, p
 * [INVOLVE](http://www.invo.org.uk/)
 * [Clinical Study Data Request](https://clinicalstudydatarequest.com/)
 * [Yale University Open Data Access](http://yoda.yale.edu/)
-* [zaptrials](https://zaptrials.com/blog)
 * [UK Cochrane Centre](http://uk.cochrane.org/)
-
-Let us know of the links you know of too and we'll add them.
+* [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - A range of data types to match onto clinical trials.
+* [ContentMine](http://contentmine.org/) - Matching academic journal publications to clinical trials.
+* [Epistemonikos](http://www.epistemonikos.org/) - Summaries and systematic reviews on clinical trials.
+* [Document Cloud](https://www.documentcloud.org/home) - OCR and text editing for scanned documents already in OpenTrials.
+* [Plum Anayltics](http://plumanalytics.com/)
+* [AltMetric](http://www.altmetric.com/)
+* [zaptrials](https://zaptrials.com/blog)
+* [UCL Institure of Health Equity](http://www.instituteofhealthequity.org/)
+* [TrialReach](http://trialreach.com/)
+* [European Patients' Academy](https://www.eupati.eu/)
+* [Center for Information and Study on Clinical Research Participation (CISCRP)](https://www.ciscrp.org/)
+* [MoreTrials](http://moretrials.net)

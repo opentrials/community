@@ -34,13 +34,17 @@ Contribution:
 * [Communication Standards](communication_standards.md)
 * [What Next?](next.md)
 
+Community
+
+* [Events in the wider community](events.md)
+* [Related Projects](community.md)
+
 Discussion:
 
 * [Discussion Board](https://discuss.okfn.org/c/projects/open-trials)
 * [Twitter](https://twitter.com/opentrials)
 * [Ben's Video](https://www.youtube.com/watch?v=ngVYptGuK0E)
 * [Reading](reading.md)
-* [Events in the wider community](events.md)
 
 Data:
 

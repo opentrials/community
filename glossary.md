@@ -16,7 +16,15 @@ If you know of other glossaries people could use as a reference, please
 [contribute](contributing.md) the link.
 
 Intervention
-: XXX
+: A process or action that is the focus of a clinical trial. Interventions
+  include drugs, medical devices, procedures, vaccines, and other products that
+  are either investigational or already available. Interventions can also include
+  noninvasive approaches, such as surveys, education, and interviews.
+
+Condition
+: The disease, disorder, syndrome, illness, or injury that is being studied. On
+  ClinicalTrials.gov, conditions may also include other health-related issues,
+  such as lifespan, quality of life, and health risks.
 
 Clincial
 : relating to the observation and treatment of actual patients rather than theoretical or laboratory studies
