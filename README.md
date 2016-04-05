@@ -1,5 +1,8 @@
 # OpenTrials Community Resources README
 
+[![Issues](https://img.shields.io/badge/issue-tracker-orange.svg)](https://github.com/opentrials/opentrials/issues)
+[![Docs](https://img.shields.io/badge/docs-latest-blue.svg)](http://docs.opentrials.net/en/latest/developers/)
+
 ~~~
 Created: James Gardner, 2016-02-14
 Audience: Community
